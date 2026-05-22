@@ -1,4 +1,4 @@
-# Raade RAG
+# Raad RAG
 
 This is a minimal implementation of the RAG model for question answering on Raade Educational resources .
 
